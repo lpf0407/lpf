@@ -22,5 +22,6 @@ int main()
         printf("Hello\n");
         printf("wirld\n");
         printf("1---wirld\n");
+        printf("2---wirld\n");
     return 0;
 }
