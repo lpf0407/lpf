@@ -20,5 +20,6 @@
 int main()
 {
         printf("Hello\n");
+        printf("wirld\n");
     return 0;
 }
